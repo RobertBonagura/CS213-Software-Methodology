@@ -1,17 +1,30 @@
-# Review From Last Class
+# Introduction
+(Lectures 1 and 2)
+## Methods for developing good software
+
+* Maintainabiliity
+* Dependability and Security
+* Efficiency
+* Usability and Acceptability
 
 ## 5 Major Activities in software development
-* Requirement
+* Requirement Analysis / Specification
 * Design (UML, diagrams)
 * Implementation
 * Verification and Validation
-* Delivery / Maintenance
+* Delivery / Maintenance / Evolution
+
+## Software Process Models
+There are multiple process models for software - the two most prominent being Waterfall and Agile.
+* Waterfall - where each activity in the software development process is not started until it's previous activity is completed
+    * leads to longer period between releases
+* Agile 
+    * Allows more involvement from customer in the dev process.
+    * More frequent releases of software
 
 [Agile 101 Map](https://www.agilealliance.org/agile101/subway-map-to-agile-practices/)
 
 ---
-
-# Introduction (continued)
 
 ## Programming Ground Rules
 Includes 'clean code', modularity, meanigful names and purposeful comments among some other guidelines. For more information open [Ground Rules](file:///Users/robert.bonagura/Desktop/Software/213rules.htm) in live server to review guidelines
