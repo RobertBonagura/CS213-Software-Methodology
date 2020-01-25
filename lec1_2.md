@@ -35,7 +35,7 @@ Javadoc - can autogenerate documentation when writing methods
     This is a concise summary of method.
     May contain more senteces to elaborate.
     @param paramname    comment on pararmater
-    @return    return value is commented her
+    @return    return value is commented here
     */
     
 * Comment block on top of each class.
