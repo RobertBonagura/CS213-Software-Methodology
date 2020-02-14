@@ -37,6 +37,7 @@ IT is a "is-a-kind-of" relationship, for example: rectangle is a kind of square.
 
 ---
 In class example using exercise 4.1
+
 ---
 
 ## Exception Handling
